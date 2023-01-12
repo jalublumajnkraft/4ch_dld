@@ -2,6 +2,7 @@
 import json
 from math import ceil
 
+#https://api.telegram.org/bot{token}/setWebhook?url={url}
 #Токен
 TOKEN  = '5685073154:AAFK3RgL1PhWCObZMbfeSK5bQuOwFjc8vjA'
 
